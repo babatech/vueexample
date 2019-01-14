@@ -12,5 +12,5 @@ export default new Router({
       component: HelloWorld
     }
   ],
-  base: process.env.ROUTER_BASE,
+  base: process.env.ROUTER_BASE
 })
