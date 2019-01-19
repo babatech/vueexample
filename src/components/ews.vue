@@ -133,10 +133,10 @@
             </div>
             <div class="col-8" data-aos="fade-right">
               <h5><a href="https://www.concept.one/" target="_blank">Concept One GmbH, Hamburg</a> </h5>
-              <h6>August 2019 - now</h6>
-              <h6>Software Entwickler</h6>
+              <h6>August 2016 - January 2019</h6>
+              <h6>Software developer</h6>
               <p>
-                My job includes the following tasks:<br>
+                My job includes the following tasks:
               <ul>
                 <li>Implementation of design layouts in front-end components and templates</li>
                 <li>Implementation of back-end templates</li>

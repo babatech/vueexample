@@ -5,6 +5,7 @@
     <ews></ews>
     <skills></skills>
     <languages></languages>
+    <reference></reference>
     <past-work></past-work>
     <br>
     <br>
@@ -24,9 +25,10 @@ import PastWork from './pastWork'
 import AppFooter from './appFooter'
 import AppHeader from './appHeader'
 import Ews from './ews'
+import Reference from './reference';
 export default {
   name: 'HelloWorld',
-  components: {Ews, AppHeader, AppFooter, PastWork, Languages, Skills, PersonalData},
+  components: {Reference, Ews, AppHeader, AppFooter, PastWork, Languages, Skills, PersonalData},
   mounted: function () {
     $(document).on('click', 'a[href^="#"]', function (event) {
       event.preventDefault()

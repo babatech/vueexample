@@ -21,7 +21,7 @@
           </a>
         </li>
         <li class="list-inline-item">
-          <a class="btn-social btn-linkedin" target="_blank" href="https://www.linkedin.com/in/shahab-shakoor-50117193/">
+          <a class="btn-social btn-linkedin" target="_blank" href="https://www.linkedin.com/in/shahabshakoor">
             <i class="fa fa-linkedin"> </i>
           </a>
         </li>
